@@ -1,7 +1,12 @@
 .DS_Store
 <<<<<<< HEAD
+<<<<<<< HEAD
 db/seeds/*
 =======
 db/seeds/
 
 >>>>>>> PUSH
+=======
+db/seeds/
+
+>>>>>>> 08f2bcfeecc209b01c6c33a1cd97bcf12ae6a62d
